@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "425185319839",
+    "firebase_url": "https://herald-293d1.firebaseio.com",
+    "project_id": "herald-293d1",
+    "storage_bucket": "herald-293d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425185319839:android:fa8b1a8807cb9cf855fbaa",
+        "android_client_info": {
+          "package_name": "com.example.herald"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425185319839-m909d58147rmqpqrhl55n0b0sjkv2inc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.herald",
+            "certificate_hash": "be8e9c07aebac9f623d7e0eebecdde7719c33e69"
+          }
+        },
+        {
+          "client_id": "425185319839-den9hvg4u5mr3kpuhjgg5opnfrjf7tr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBObdAGL9xLMPfp5Z-3RKp1U1xXLU2tAxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425185319839-den9hvg4u5mr3kpuhjgg5opnfrjf7tr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
